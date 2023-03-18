@@ -1,0 +1,15 @@
+.bg-light.masthead.text-center.text-white {
+  background: url("https://mummydadhaba.netlify.app/media/home-header.jpeg"),
+    #000;
+  background-blend-mode: luminosity;
+  background-size: cover;
+  background-attachment: fixed;
+  height: 350px;
+  padding: 0px;
+  margin-top: 67px;
+}
+
+.masthead-content {
+  max-height: 100%;
+  margin-top: 50px;
+}

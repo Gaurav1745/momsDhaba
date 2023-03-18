@@ -1,0 +1,20 @@
+{
+  "short_name": "MomsKitchen",
+  "name": "Mummy Da Dhaba",
+  "icons": [
+    {
+      "src": "https://i.ibb.co/F3LCGpN/logo.png",
+      "sizes": "52x52",
+      "type": "image/png"
+    },    
+    {
+      "src": "https://i.ibb.co/CB5hpr2/Mymmydadhaba.png",
+      "sizes": "720x720",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/",
+  "display": "fullscreen",
+  "theme_color": "#D8D8D8",
+  "background_color": "#D8D8D8"
+}
