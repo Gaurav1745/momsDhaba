@@ -14,7 +14,7 @@ const Nav = () => {
     >
       <div className="container mx-3 mx-sm-auto">
         <Link style={{ fontSize: "16px" }} className="navbar-brand" to="/">
-          MUMMY DA DHABA
+          MomsDhaba
         </Link>
         <button
           data-toggle="collapse"
