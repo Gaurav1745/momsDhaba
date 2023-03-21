@@ -7,7 +7,7 @@
 #### The website is built with react and can be viewed live at: https://momsdhaba.netlify.app
 
 ### Screenshot
-![image](https://user-images.githubusercontent.com/30944790/135566546-6bd8f89e-9c08-4827-a88e-1dd6e5236419.png)
+![image](https://github.com/Gaurav1745/momsDhaba/blob/main/public/media/dhabaphoto.png)
 
 ### Api used
   ``` https://spoonacular.com ```
