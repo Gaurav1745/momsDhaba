@@ -1,5 +1,5 @@
-# Mummy Da Dhaba
-## The homemade Dhaba
+# MomsDhaba
+## The homemade kitchen recipie
 <img src="https://mummydadhaba.netlify.app/media/logo.ico" alt="logo" />
 <hr />
 
