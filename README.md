@@ -1,4 +1,4 @@
-# Moms Dhaba.
+# Moms Dhaba
 ## The homemade kitchen recipie.
 [![Netlify Status](https://api.netlify.com/api/v1/badges/8d014fbb-8f1d-466b-af95-87c95400708d/deploy-status)](https://app.netlify.com/sites/momsdhaba/deploys)
 
